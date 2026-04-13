@@ -87,7 +87,7 @@ export default function StatementUploader() {
             <FileSpreadsheet className="h-5 w-5 text-primary" />
           </div>
           <div>
-            <p className="font-semibold text-foreground text-sm">Download CSV template</p>
+            <p className="font-semibold text-foreground text-sm">Download Sample Statement</p>
             <p className="text-xs text-muted-foreground">
               Use this format to ensure all required columns are present
             </p>
